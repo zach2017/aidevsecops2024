@@ -2,6 +2,7 @@
 <h1>A Place to learn how to design,develop,deploy and maintain IT Solutions, with a goal of gaining the knowledge to get Certified in an area.</h1>
 <hr>
 Let's share knowledge and Learn Together by building real world solutions using some of the latest technologies. We will include example code, configuration, study notes and more.
+TBD 
 
 #AWS Solutions Architect
 <ul>
