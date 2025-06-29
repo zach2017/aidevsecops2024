@@ -1,25 +1,14 @@
-AWS Knowledge .  Build solutions on AWS#AWS Solutions Architect
-<ul>
-<li><a href="https://explore.skillbuilder.aws/learn/course/internal/view/elearning/19378/aws-cloud-quest-generative-ai">AWS Skill builder</a></li>
-<li><a href="aws/TBD">20 Day Study Plan</a></li>
-</ul>
-#AWS AI/ML engineer
-<ul>
-<li><a href="https://skillbuilder.aws/products#machine-learning">AWS Skill builder</a></li>
-<li><a href="aws/TBD">20 Day Study Plan</a></li>
-</ul>
-#AWS Certified Security
-<ul>
-<li><a href="TBD">20 Day Study Plan</a>
-</li>
-</ul>
-#AWS Certified Networking
-<ul>
-<li><a href="aws/TBD">20 Day Study Plan</a>
-</li>
-</ul>
-#AWS Certified Developer - Associate
-<ul>
-<li><a href="aws/developercertassoc/README.md">20 Day Study Plan</a>
-</li>
-</ul>
+# AWS
+
+This directory collects study materials and sample code for learning Amazon Web Services and preparing for certifications.
+
+## Key tools and topics
+- AWS CLI and SDKs
+- CloudFormation examples
+- Notes for certification exams
+
+## How to use
+See the following subfolders for more details:
+- `introQuickStart` – fundamentals and quick start guides
+- `solutions` – reference architectures and deployment templates
+- `developercertassoc` – resources for the AWS Certified Developer exam
